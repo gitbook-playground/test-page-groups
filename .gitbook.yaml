@@ -1,0 +1,5 @@
+root: ./
+
+redirects:
+    test/test/test: README.md
+    
